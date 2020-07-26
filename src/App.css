@@ -1,0 +1,13 @@
+body {
+  background-image: url("./bg.jpg");
+  background-size: cover;
+  background-color: azure;
+}
+
+.modal {
+  background-color: #cad8de;
+}
+
+.collection with-header {
+  background-color: #cad8de;
+}
